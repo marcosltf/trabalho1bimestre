@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.barra {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f4f4f4;
+}
+.imagem {
+    height: 65px;
+}
+.titulo {
+    margin: 0;
+    font-size: 20px;
+    text-align: center;
+}
+.celula {
+    height: 40px;
+}
+
+.tabelaf1 {
+    margin: 0 auto; 
+    text-align: center; 
+    width: 60%; 
+    font-size: 30px; 
+    border-collapse: collapse;
+    border: 1px solid #000;
+}
+
+.cimatabela {
+    background-color: #b1b1b1;
+    border: 1px solid #000;
+}
+
+.gp {
+    text-align: center;
+}
+
+.celula img {
+    height: 27px;
+    width: 35px;
+}
