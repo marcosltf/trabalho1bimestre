@@ -1,1 +1,4 @@
-# trabalho1bimestre
+Entregar até dia 13/04.
+
+### ** MARCOS LUIZ TAIJA FILHO – 60009068 – ADS**  
+### ** LUCAS MIGUEL RAMOS – 60009407 – ADS**
